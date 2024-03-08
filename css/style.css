@@ -1,0 +1,46 @@
+body {
+    background: #0f0c29;
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+}
+h1 {
+    background: linear-gradient(to right, #302b63,  #0f0c29, #302b63);
+    font-size: 70px;
+    text-align: center;
+    font-style: italic;
+    color: white;
+    background-color: rgb(74, 60, 148);
+    margin-top: auto;
+    margin-left: -10%;
+    margin-right: -10%;
+}
+.historie {
+    background-color: rgb(74, 60, 148);
+    color: white;
+}
+.nigga{
+    border: 2px solid rgba(82, 125, 150, 0.541);
+    padding: 1%;
+
+}
+main {
+    padding-left: 40px;
+    padding-right: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
