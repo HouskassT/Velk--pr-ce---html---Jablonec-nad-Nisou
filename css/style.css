@@ -16,37 +16,46 @@ h1 {
     background: linear-gradient(to right, #0f0c29, #302b63);
     font-style: italic;
     font-size: 30px;
-    background-color: rgb(74, 60, 148);
     color: white;
     padding: 10px;
     padding-left: 20px;
+    text-align: center;
+    border: 1px solid white;
 }
 .Info2 {
     font-size: 20px;
-    border: 2px solid rgba(82, 125, 150, 0.541);
+    border: 3px solid rgb(100, 121, 180);
     padding: 1%;
     color: white;
+    text-align: justify;
 }
 .historie {
-    background: linear-gradient(to right, #0f0c29, #302b63);
+    background: linear-gradient(to right, #302b63, #0f0c29);
     font-style: italic;
     font-size: 30px;
-    background-color: rgb(74, 60, 148);
     color: white;
     padding: 10px;
     padding-left: 20px;
+    text-align: center;
+    border: 1px solid white;
 }
 .historie2{
     font-size: 20px;
-    border: 2px solid rgba(82, 125, 150, 0.541);
+    border: 3px solid rgb(100, 121, 180);
     padding: 1%;
     color: white;
-
+    text-align: justify;
 }
 main {
     padding-left: 40px;
     padding-right: 700px;
 }
+.main2 {
+    padding-left: 700px;
+    padding-right: 40px;
+    text-align: right;
+}
+
 .Okolí {
     background: linear-gradient(to right, #0f0c29, #302b63);
     font-style: italic;
