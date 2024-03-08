@@ -14,12 +14,19 @@ h1 {
     margin-right: -10%;
 }
 .historie {
+    background: linear-gradient(to right, #0f0c29, #302b63);
+    font-style: italic;
+    font-size: 30px;
     background-color: rgb(74, 60, 148);
     color: white;
+    padding: 10px;
+    padding-left: 20px;
 }
 .historie2{
+    font-size: 20px;
     border: 2px solid rgba(82, 125, 150, 0.541);
     padding: 1%;
+    color: white;
 
 }
 main {
