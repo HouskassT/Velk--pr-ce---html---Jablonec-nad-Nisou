@@ -62,11 +62,64 @@ main {
     padding: 1%;
     color: white;
 }
+.neco {
+    background: linear-gradient(to right, #0f0c29, #302b63);
+    font-style: italic;
+    font-size: 30px;
+    background-color: rgb(74, 60, 148);
+    color: white;
+    padding: 10px;
+    padding-left: 20px;
+}
+.neco2 {
+    font-size: 20px;
+    border: 2px solid rgba(82, 125, 150, 0.541);
+    padding: 1%;
+    color: white;
+}
+.necoo {
+    background: linear-gradient(to right, #0f0c29, #302b63);
+    font-style: italic;
+    font-size: 30px;
+    background-color: rgb(74, 60, 148);
+    color: white;
+    padding: 10px;
+    padding-left: 20px;
+}
+.necoo2 {
+    font-size: 20px;
+    border: 2px solid rgba(82, 125, 150, 0.541);
+    padding: 1%;
+    color: white;
+}
+footer {
+    background: linear-gradient(to right, #302b63, #0f0c29, #302b63);
+    padding: 1%;
+    color: white;
+    margin: -10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 img {
     display: flex;
     right: 350px;
 }
-
 
 
 
