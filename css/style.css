@@ -11,15 +11,6 @@ h1 {
     margin-left: -10%;
     margin-right: -10%;
 }
-.Info {
-    background: linear-gradient(to right, #0f0c29, #302b63);
-    font-style: italic;
-    font-size: 30px;
-    color: white;
-    padding: 10px;
-    text-align: center;
-    border: 1px solid white;
-}
 .sec1 {
     padding-left: 40px;
     padding-right: 700px;
@@ -60,6 +51,16 @@ h1 {
     padding-left: 40px;
     padding-right: 700px;
 }
+.Info {
+    background: linear-gradient(to right, #0f0c29, #302b63);
+    font-style: italic;
+    font-size: 30px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid white;
+}
+
 .Info2 {
     font-size: 20px;
     border: 3px solid rgb(100, 121, 180);
