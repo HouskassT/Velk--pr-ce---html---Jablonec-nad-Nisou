@@ -2,7 +2,7 @@ body {
     background: #490875;
 }
 h1 {
-    background: linear-gradient(to right, #302b63,  #0f0c29, #302b63);
+    background: linear-gradient(to left, #302b63,  #0f0c29, #302b63);
     font-size: 70px;
     text-align: center;
     font-style: italic;
@@ -132,12 +132,6 @@ h1 {
     padding: 1%;
     color: white;
 }
-footer {
-    background: linear-gradient(to right, #302b63, #0f0c29, #302b63);
-    padding: 1%;
-    color: white;
-    margin: -10px;
-}
 img {
     display: flex;
     position: absolute;
@@ -154,8 +148,12 @@ img {
     height: 230px;
     width: auto;
 }
-
-
+footer {
+    background: linear-gradient(to right, #302b63, #0f0c29, #302b63);
+    padding: 1%;
+    color: white;
+    margin: -10px;
+}
 
 
 
