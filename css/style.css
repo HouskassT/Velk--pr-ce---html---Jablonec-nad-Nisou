@@ -46,16 +46,6 @@ h1 {
     color: white;
     text-align: justify;
 }
-main {
-    padding-left: 40px;
-    padding-right: 700px;
-}
-.main2 {
-    padding-left: 700px;
-    padding-right: 40px;
-    text-align: right;
-}
-
 .Okolí {
     background: linear-gradient(to right, #0f0c29, #302b63);
     font-style: italic;
