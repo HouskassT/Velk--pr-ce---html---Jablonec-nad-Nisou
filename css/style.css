@@ -148,6 +148,30 @@ img {
     height: 230px;
     width: auto;
 }
+.art3 img {
+    display: flex;
+    position: absolute;
+    left: 72%;
+    top: 81%;
+    height: 230px;
+    width: auto;
+}
+.art4 img{
+    display: flex;
+    position: absolute;
+    right: 72%;
+    top: 116%;
+    height: 250px;
+    width: auto;
+}
+.art5 img {
+    display: flex;
+    position: absolute;
+    left: 72%;
+    top: 152%;
+    height: 240px;
+    width: auto;
+}
 footer {
     background: linear-gradient(to right, #302b63, #0f0c29, #302b63);
     padding: 1%;
