@@ -7,7 +7,6 @@ h1 {
     text-align: center;
     font-style: italic;
     color: white;
-    background-color: rgb(74, 60, 148);
     margin-top: auto;
     margin-left: -10%;
     margin-right: -10%;
@@ -18,10 +17,38 @@ h1 {
     font-size: 30px;
     color: white;
     padding: 10px;
-    padding-left: 20px;
     text-align: center;
     border: 1px solid white;
 }
+.sec1 {
+    padding-left: 40px;
+    padding-right: 700px;
+}
+.art1 {
+    padding-left: 40px;
+    padding-right: 700px;
+}
+.sec2 {
+    padding-left: 700px;
+    padding-right: 40px;
+}
+.art2 {
+    padding-left: 700px;
+    padding-right: 40px;
+}
+.sec3 {
+    padding-left: 40px;
+    padding-right: 700px;
+}
+.art3 {
+    padding-left: 40px;
+    padding-right: 700px;
+}
+
+
+
+
+
 .Info2 {
     font-size: 20px;
     border: 3px solid rgb(100, 121, 180);
@@ -34,10 +61,9 @@ h1 {
     font-style: italic;
     font-size: 30px;
     color: white;
-    padding: 10px;
-    padding-left: 20px;
     text-align: center;
     border: 1px solid white;
+    padding: 10px;
 }
 .historie2{
     font-size: 20px;
@@ -50,10 +76,10 @@ h1 {
     background: linear-gradient(to right, #0f0c29, #302b63);
     font-style: italic;
     font-size: 30px;
-    background-color: rgb(74, 60, 148);
     color: white;
     padding: 10px;
     padding-left: 20px;
+    border: 1px solid white;
 }
 .Okolí2 {
     font-size: 20px;
@@ -65,10 +91,10 @@ h1 {
     background: linear-gradient(to right, #0f0c29, #302b63);
     font-style: italic;
     font-size: 30px;
-    background-color: rgb(74, 60, 148);
     color: white;
     padding: 10px;
     padding-left: 20px;
+    border: 1px solid white;
 }
 .neco2 {
     font-size: 20px;
@@ -80,10 +106,10 @@ h1 {
     background: linear-gradient(to right, #0f0c29, #302b63);
     font-style: italic;
     font-size: 30px;
-    background-color: rgb(74, 60, 148);
     color: white;
     padding: 10px;
     padding-left: 20px;
+    border: 1px solid white;
 }
 .necoo2 {
     font-size: 20px;
@@ -97,6 +123,9 @@ footer {
     color: white;
     margin: -10px;
 }
+
+
+
 
 
 
